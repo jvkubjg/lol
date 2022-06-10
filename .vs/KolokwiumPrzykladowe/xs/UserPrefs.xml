@@ -1,17 +1,21 @@
 ﻿<Properties StartupConfiguration="{B66D6FE0-A4E5-4017-9887-158FAA72663C}|Default">
   <MonoDevelop.Ide.ItemProperties.KolokwiumPrzykladowe FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="KolokwiumPrzykladowe/Entities/Configuration/TrackEfConfiguration.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="KolokwiumPrzykladowe/Entities/MusicContext.cs">
     <Files>
       <File FileName="KolokwiumPrzykladowe/Entities/Musician.cs" Line="21" Column="1" />
       <File FileName="KolokwiumPrzykladowe/Entities/Musican_Track.cs" Line="13" Column="1" />
-      <File FileName="KolokwiumPrzykladowe/Entities/Track.cs" Line="23" Column="1" />
-      <File FileName="KolokwiumPrzykladowe/Entities/Album.cs" Line="24" Column="1" />
+      <File FileName="KolokwiumPrzykladowe/Entities/Track.cs" Line="24" Column="1" />
+      <File FileName="KolokwiumPrzykladowe/Entities/Album.cs" Line="22" Column="6" />
       <File FileName="KolokwiumPrzykladowe/Entities/MusicLabel.cs" Line="14" Column="10" />
-      <File FileName="KolokwiumPrzykladowe/Entities/Configuration/AlbumEfConfiguration.cs" Line="1" Column="1" />
-      <File FileName="KolokwiumPrzykladowe/Entities/Configuration/Musican_TrackEfConfiguration.cs" Line="8" Column="50" />
-      <File FileName="KolokwiumPrzykladowe/Entities/Configuration/MusicianEfConfiguration.cs" Line="23" Column="36" />
-      <File FileName="KolokwiumPrzykladowe/Entities/Configuration/MusicLabelEfConfiguration.cs" Line="1" Column="1" />
-      <File FileName="KolokwiumPrzykladowe/Entities/Configuration/TrackEfConfiguration.cs" Line="4" Column="42" />
+      <File FileName="KolokwiumPrzykladowe/Entities/Configuration/AlbumEfConfiguration.cs" Line="34" Column="18" />
+      <File FileName="KolokwiumPrzykladowe/Entities/Configuration/Musican_TrackEfConfiguration.cs" Line="8" Column="49" />
+      <File FileName="KolokwiumPrzykladowe/Entities/Configuration/MusicianEfConfiguration.cs" Line="19" Column="1" />
+      <File FileName="KolokwiumPrzykladowe/Entities/Configuration/MusicLabelEfConfiguration.cs" Line="20" Column="18" />
+      <File FileName="KolokwiumPrzykladowe/Entities/Configuration/TrackEfConfiguration.cs" Line="8" Column="41" />
+      <File FileName="KolokwiumPrzykladowe/appsettings.json" Line="12" Column="1" />
+      <File FileName="KolokwiumPrzykladowe/Startup.cs" Line="25" Column="61" />
+      <File FileName="KolokwiumPrzykladowe/DrugContext.cs" />
+      <File FileName="KolokwiumPrzykladowe/Entities/MusicContext.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,7 +23,7 @@
           <Node name="KolokwiumPrzykladowe" expanded="True">
             <Node name="KolokwiumPrzykladowe" expanded="True">
               <Node name="Entities" expanded="True">
-                <Node name="Configuration" expanded="True" />
+                <Node name="MusicContext.cs" selected="True" />
               </Node>
             </Node>
           </Node>
