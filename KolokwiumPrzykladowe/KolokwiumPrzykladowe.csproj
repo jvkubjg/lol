@@ -10,6 +10,8 @@
     <None Remove="Entities\" />
     <None Remove="Microsoft.EntityFrameworkCore.SqlServer" />
     <None Remove="Entities\Configuration\" />
+    <None Remove="Services\" />
+    <None Remove="DTO\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.17" />
@@ -22,5 +24,7 @@
   <ItemGroup>
     <Folder Include="Entities\" />
     <Folder Include="Entities\Configuration\" />
+    <Folder Include="Services\" />
+    <Folder Include="DTO\" />
   </ItemGroup>
 </Project>

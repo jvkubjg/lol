@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{B66D6FE0-A4E5-4017-9887-158FAA72663C}|Default">
   <MonoDevelop.Ide.ItemProperties.KolokwiumPrzykladowe FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="KolokwiumPrzykladowe/appsettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="KolokwiumPrzykladowe/Controllers/AlbumController.cs">
     <Files>
       <File FileName="KolokwiumPrzykladowe/Entities/Musician.cs" Line="21" Column="1" />
       <File FileName="KolokwiumPrzykladowe/Entities/Musican_Track.cs" Line="13" Column="1" />
@@ -12,19 +12,31 @@
       <File FileName="KolokwiumPrzykladowe/Entities/Configuration/MusicianEfConfiguration.cs" Line="19" Column="1" />
       <File FileName="KolokwiumPrzykladowe/Entities/Configuration/MusicLabelEfConfiguration.cs" Line="20" Column="18" />
       <File FileName="KolokwiumPrzykladowe/Entities/Configuration/TrackEfConfiguration.cs" Line="8" Column="41" />
-      <File FileName="KolokwiumPrzykladowe/appsettings.json" Line="12" Column="1" />
+      <File FileName="KolokwiumPrzykladowe/appsettings.json" Line="1" Column="1" />
       <File FileName="KolokwiumPrzykladowe/Startup.cs" Line="25" Column="61" />
       <File FileName="KolokwiumPrzykladowe/DrugContext.cs" />
-      <File FileName="KolokwiumPrzykladowe/Entities/MusicContext.cs" Line="33" Column="1" />
+      <File FileName="KolokwiumPrzykladowe/Entities/MusicContext.cs" Line="32" Column="2" />
       <File FileName="KolokwiumPrzykladowe/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="KolokwiumPrzykladowe/Services/IAlbumService.cs" Line="13" Column="1" />
+      <File FileName="KolokwiumPrzykladowe/Services/AlbumService.cs" Line="18" Column="1" />
+      <File FileName="KolokwiumPrzykladowe/DTO/AlbumDto.cs" Line="21" Column="1" />
+      <File FileName="KolokwiumPrzykladowe/DTO/TrackDto.cs" Line="9" Column="9" />
+      <File FileName="KolokwiumPrzykladowe/DTO/MusicLabel.cs" Line="11" Column="1" />
+      <File FileName="KolokwiumPrzykladowe/Controllers/AlbumController.cs" Line="4" Column="39" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="KolokwiumPrzykladowe" expanded="True">
             <Node name="KolokwiumPrzykladowe" expanded="True">
-              <Node name="Entities" expanded="True" />
-              <Node name="appsettings.json" expanded="True" selected="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="AlbumController.cs" selected="True" />
+              </Node>
+              <Node name="DTO" expanded="True" />
+              <Node name="Entities" expanded="True">
+                <Node name="Configuration" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
             </Node>
           </Node>
         </State>
