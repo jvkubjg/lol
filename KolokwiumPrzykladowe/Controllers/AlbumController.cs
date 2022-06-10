@@ -20,7 +20,7 @@ namespace KolokwiumPrzykladowe.Controllers
         }
 
 
-        [HttpGet("IdAlbum")]
+        [HttpGet("{IdAlbum}")]
         public async Task<IActionResult> GetAlbum([FromRoute] int idAlbum)
         {
             var album = await _service.GetAlbum(idAlbum);

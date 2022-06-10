@@ -33,7 +33,15 @@ namespace KolokwiumPrzykladowe.Entities.Configuration
                  TrackName = "Asd",
                  Duration = 1.0f,
                  IdMusicAlbum = 1,
-                }
+                },
+                       new Track
+                {
+                 IdTrack =2,
+                 TrackName = "Asd",
+                 Duration = 1.5f,
+                 IdMusicAlbum = 1,
+                },
+
             };
 
             builder.HasData(musicians);

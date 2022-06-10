@@ -35,7 +35,7 @@ namespace KolokwiumPrzykladowe.Services
                         IdTrack = t.IdTrack,
                         TrackName = t.TrackName,
                         Duration = t.Duration
-                    }).ToList().OrderBy(o => o.Duration).ToList()
+                    }).OrderByDescending(e => e.Duration).ToList()
                 }).FirstOrDefaultAsync(e => e.IdAlbum == IdAlbum);
         }
     }

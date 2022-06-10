@@ -12,7 +12,7 @@ namespace KolokwiumPrzykladowe.Entities.Configuration
         {
             builder.HasKey(e => e.IdMusicLabel).HasName("MusicLabel_pk");
             builder.Property(e => e.IdMusicLabel).UseIdentityColumn();
-            builder.Property(e => e.Name).UseIdentityColumn();
+            builder.Property(e => e.Name).IsRequired();
 
             IEnumerable<MusicLabel> musicians = new List<MusicLabel>
             {

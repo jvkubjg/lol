@@ -35,9 +35,9 @@ namespace KolokwiumPrzykladowe.Entities.Configuration
             };
 
             builder.HasData(musicians);
-            builder.ToTable("Tracks");
+            builder.ToTable("Albums");
         }
 
     }
     }
-}
+
