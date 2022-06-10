@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{B66D6FE0-A4E5-4017-9887-158FAA72663C}|Default">
+  <MonoDevelop.Ide.ItemProperties.KolokwiumPrzykladowe FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KolokwiumPrzykladowe/Entities/Configuration/TrackEfConfiguration.cs">
+    <Files>
+      <File FileName="KolokwiumPrzykladowe/Entities/Musician.cs" Line="21" Column="1" />
+      <File FileName="KolokwiumPrzykladowe/Entities/Musican_Track.cs" Line="13" Column="1" />
+      <File FileName="KolokwiumPrzykladowe/Entities/Track.cs" Line="23" Column="1" />
+      <File FileName="KolokwiumPrzykladowe/Entities/Album.cs" Line="24" Column="1" />
+      <File FileName="KolokwiumPrzykladowe/Entities/MusicLabel.cs" Line="14" Column="10" />
+      <File FileName="KolokwiumPrzykladowe/Entities/Configuration/AlbumEfConfiguration.cs" Line="1" Column="1" />
+      <File FileName="KolokwiumPrzykladowe/Entities/Configuration/Musican_TrackEfConfiguration.cs" Line="8" Column="50" />
+      <File FileName="KolokwiumPrzykladowe/Entities/Configuration/MusicianEfConfiguration.cs" Line="23" Column="36" />
+      <File FileName="KolokwiumPrzykladowe/Entities/Configuration/MusicLabelEfConfiguration.cs" Line="1" Column="1" />
+      <File FileName="KolokwiumPrzykladowe/Entities/Configuration/TrackEfConfiguration.cs" Line="4" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KolokwiumPrzykladowe" expanded="True">
+            <Node name="KolokwiumPrzykladowe" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="Configuration" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
